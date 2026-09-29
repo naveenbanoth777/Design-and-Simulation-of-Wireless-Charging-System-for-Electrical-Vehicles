@@ -1,0 +1,2 @@
+# Design-and-Simulation-of-Wireless-Charging-System-for-Electrical-Vehicles
+To find the State of charge for the Wireless charging system. To give an overview of various wireless charging techniques out of which inductive  wireless transfer has proven to be the best method of wireless charging.  This also attempts to review the application of static and dynamic wireless charging and how the battery plays an important role.
